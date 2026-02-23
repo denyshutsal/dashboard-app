@@ -1,5 +1,19 @@
-## Next.js App Router Course - Starter
+## 🚀 Next.js Full-Stack Application
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This project is a **Next.js** application showcasing modern full-stack features and best practices.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+### 🔧 Tech & Features Used
+
+- **Styling:** CSS Modules, global styles, and component-based styling approaches
+- **Optimizations:** Built-in image, font, and link optimization
+- **Routing:** File-system routing with nested layouts
+- **Database:** PostgreSQL deployed on Vercel
+- **Data Fetching:** Server Components, streaming, and best practices for data fetching
+- **Search & Pagination:** Implemented using URL search parameters
+- **Data Mutations:** React Server Actions with Next.js cache revalidation
+- **Error Handling:** Global and 404 error handling
+- **Form Validation & Accessibility:** Server-side validation and accessibility improvements
+- **Authentication:** Implemented with NextAuth.js and Proxy
+- **Metadata & SEO:** Dynamic metadata configuration for social sharing
+
+A production-ready example of a modern, scalable Next.js application.
